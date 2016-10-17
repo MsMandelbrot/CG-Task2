@@ -20,3 +20,11 @@ C:\Users\user\Documents\Visual Studio 2010\Projects\task2\task2\obj\x86\Debug\ta
 C:\Users\user\Documents\Visual Studio 2010\Projects\task2\task2\obj\x86\Debug\task2.Properties.Resources.resources
 C:\Users\user\Documents\Visual Studio 2010\Projects\task2\task2\obj\x86\Debug\task2.csproj.GenerateResource.Cache
 C:\Users\Anna\Documents\Visual Studio 2010\Projects\task2\task2\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.exe
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.pdb
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\bin\Debug\task2.exe
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\bin\Debug\task2.pdb
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.Form1.resources
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.Properties.Resources.resources
+C:\Users\Anna\Documents\GitHub\CG-Task2\CG-Task2\task2\task2\obj\x86\Debug\task2.csproj.GenerateResource.Cache

@@ -142,7 +142,7 @@ namespace task2
 
 
                 }
-            new_image.Save(@"result_image3.jpg");
+            new_image.Save(@"result_image3.png");
 
         }
 

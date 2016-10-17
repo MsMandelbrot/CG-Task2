@@ -47,7 +47,7 @@ namespace task2
                     new_image.SetPixel(i, j, Color.FromArgb((byte)p, (byte)p, (byte)p));
                 
                 }
-            new_image.Save(@"result_image1.jpg");
+            new_image.Save(@"result_image1.png");
         }
     }
 }

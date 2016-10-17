@@ -114,7 +114,7 @@ namespace task2
 
                 }
             new_image = Crop(new_image, new Rectangle(k, k, new_image.Width - kk, new_image.Height - kk));
-            new_image.Save(@"result_image4.jpg");
+            new_image.Save(@"result_image4.png");
 
         }
 

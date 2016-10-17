@@ -28,14 +28,14 @@ namespace task2
                 //Bitmap image = new Bitmap(pictureBox1.Image);
                 Bitmap image = new Bitmap(directoryPath);
                 method1.Method(image);
-                textBox2.Text = "Image save to ./Debug/result_image1.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image1.png. See the result there";
             }
 
             if (radioButton2.Checked)
             {
                 Bitmap image = new Bitmap(directoryPath);
                 method2.Method(image);
-                textBox2.Text = "Image save to ./Debug/result_image2.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image2.png. See the result there";
 
             }
 
@@ -44,27 +44,27 @@ namespace task2
                 Bitmap image = new Bitmap(directoryPath);
                 int dn = Convert.ToInt32(textBox1.Text);
                 method3.Method(image, dn);
-                textBox2.Text = "Image save to ./Debug/result_image3.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image3.png. See the result there";
             }
 
             if (radioButton4.Checked)
             {
                 Bitmap image = new Bitmap(directoryPath);
                 method4.Method(image);
-                textBox2.Text = "Image save to ./Debug/result_image4.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image4.png. See the result there";
             }
             if (radioButton5.Checked)
             {
                 Bitmap image = new Bitmap(directoryPath);
                 method5.Method(image);
-                textBox2.Text = "Image save to ./Debug/result_image5.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image5.png. See the result there";
             }
 
             if (radioButton6.Checked)
             {
                 Bitmap image = new Bitmap(directoryPath);
                 method6.Method(image);
-                textBox2.Text = "Image save to ./Debug/result_image6.jpg. See the result there";
+                textBox2.Text = "Image save to ./Debug/result_image6.png. See the result there";
             }
 
           
